@@ -55,29 +55,3 @@ type PageInfo struct {
 	ElementCount int64 `json:"elementCount"`
 	PageCurrent  int64 `json:"pageCurrent"`
 }
-
-// type BtnName string
-
-// const (
-// 	剑指Offer BtnName = "剑指offer"
-// 	查看 BtnName = "查看"
-// )
-
-// type GuideName string
-// const (
-// 	Name刷公司往年真题 GuideName = "刷公司往年真题 "
-// 	Name面试常考点必备 GuideName = "面试常考点必备 "
-// 	刷公司往年真题 GuideName = "刷公司往年真题"
-// 	校招Fqa GuideName = "校招FQA"
-// 	看笔经面经 GuideName = "看笔经面经"
-// 	面试常考点必备 GuideName = "面试常考点必备"
-// )
-
-// type ScheduleName string
-// const (
-// 	Empty ScheduleName = ""
-// 	寻找内部员工内推 ScheduleName = "寻找内部员工内推"
-// 	投递方式 ScheduleName = "投递方式"
-// 	投递链接 ScheduleName = "投递链接"
-// 	招聘详情 ScheduleName = "招聘详情"
-// )

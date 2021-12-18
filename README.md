@@ -8,6 +8,7 @@ go run main.go
 ```
 
 ## 结果
+获取到的其中某个公司信息如下，结果为列表形式
 ```json
 {
      "officalUrl": "https://bcs.hotjob.cn/wt/BCS/web/index#/",
